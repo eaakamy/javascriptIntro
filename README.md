@@ -1,5 +1,6 @@
 # JavaScript Introduktion (2 lektioner)
-
+## Hej
+hej hej
 ## Nogen gode liks
 
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
@@ -8,7 +9,7 @@
 
 ## ca. 12:30 (aftales med formiddagsunderviseren!)
 
-* Introduktion til JavaScript
+* hiewhfweifhoewfIntroduktion til JavaScript
 * Krav til Github aflevering
 
 ### Github
